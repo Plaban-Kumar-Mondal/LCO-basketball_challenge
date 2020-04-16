@@ -1,0 +1,15 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #1A1A1A;
+    color: white;
+}
+
+
+span#btn-txt{
+    margin-right: 0.6em;
+}
+div#brand-logo{
+    padding: 0.2em;
+    font-size: 3em;
+}

@@ -1,0 +1,16 @@
+div#main{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: initial;
+}
+p{
+    text-align: center;
+    margin-bottom: 3em;
+    font-weight: 700;
+    color: black;
+}
+div.remember{
+    margin-top: 0.3em;
+}

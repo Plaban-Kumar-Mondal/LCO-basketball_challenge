@@ -1,0 +1,24 @@
+h1{
+    width: 50%;
+    text-align: center;
+    font-size: 3em;
+    letter-spacing: 0.2em;
+}
+h2{
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 0.18em;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10em;
+    margin-bottom: 5em;
+    padding-bottom: 3.5em;
+    border-bottom: 1px solid white;
+}
+span{
+    color: #B413EC;
+}

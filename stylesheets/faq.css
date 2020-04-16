@@ -1,0 +1,14 @@
+h1{
+    width: 35%;
+    padding-bottom: .2em;
+    text-align: center;
+    font-size: 3em;
+    border-bottom: 1px solid white;
+    letter-spacing: 0.2em;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5em;
+}

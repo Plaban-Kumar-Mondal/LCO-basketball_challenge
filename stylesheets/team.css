@@ -1,0 +1,21 @@
+
+h1{
+    width: 30%;
+    padding-bottom: .2em;
+    text-align: center;
+    font-size: 3em;
+    border-bottom: 1px solid white;
+    letter-spacing: 0.2em;
+}
+.heading-section{
+    margin-bottom: 8em;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5em;
+}
+.last-row{
+    margin-top: 2em;
+}
